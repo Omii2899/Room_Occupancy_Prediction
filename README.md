@@ -29,7 +29,7 @@ Details on how to set up and run this project:
    ```bash
    git clone https://github.com/Omii2899/Room_Occupancy_Prediction.git
    ```
-2.
+2. Install the required packages
    ```bash
    pip install -r requirements.txt
    ```
