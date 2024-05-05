@@ -27,6 +27,9 @@ Details on how to set up and run this project:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Omii2899/Room_Occupancy_Prediction.git
+
+2.pip install -r requirements.txt
+
 
 
