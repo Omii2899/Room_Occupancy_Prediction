@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+seaborn
+matplotlib
+imbalanced-learn
+tqdm
+dataclasses; python_version < '3.7'
+ucimlrepo
